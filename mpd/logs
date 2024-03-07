@@ -1,0 +1,545 @@
+Feb 19 02:37 : event: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 02:37 : update: spawned thread for update job id 1
+Feb 19 02:37 : state_file: Loading state file /home/omi/.config/mpd/statempd
+Feb 19 02:37 : exception: Failed to open '/home/omi/.config/mpd/statempd': No such file or directory
+Feb 19 02:37 : inotify: initializing inotify
+Feb 19 02:37 : update: starting
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/05 - The Marías - Over the Moon.ogg
+Feb 19 02:37 : inotify: watching music directory
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/05 - The Marías - Over the Moon.ogg
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/03 - The Marías - ABQ.ogg
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/03 - The Marías - ABQ.ogg
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/06 - The Marías - Clueless.ogg
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/06 - The Marías - Clueless.ogg
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/04 - The Marías - Loverboy.ogg
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/04 - The Marías - Loverboy.ogg
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/01 - The Marías - Ruthless.ogg
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/01 - The Marías - Ruthless.ogg
+Feb 19 02:37 : update: reading The Marías/Superclean, Vol. II/02 - The Marías - Cariño.ogg
+Feb 19 02:37 : update: added The Marías/Superclean, Vol. II/02 - The Marías - Cariño.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/02 - Tainy - PASIEMPRE.ogg
+Feb 19 02:37 : update: added Tainy/DATA/02 - Tainy - PASIEMPRE.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/10 - Tainy - COLMILLO.ogg
+Feb 19 02:37 : update: added Tainy/DATA/10 - Tainy - COLMILLO.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/05 - Tainy - MOJABI GHOST.ogg
+Feb 19 02:37 : update: added Tainy/DATA/05 - Tainy - MOJABI GHOST.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/08 - Tainy - mañana.ogg
+Feb 19 02:37 : update: added Tainy/DATA/08 - Tainy - mañana.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/16 - Tainy - si preguntas por mi.ogg
+Feb 19 02:37 : update: added Tainy/DATA/16 - Tainy - si preguntas por mi.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/15 - Tainy - Lo Siento BB__.ogg
+Feb 19 02:37 : update: added Tainy/DATA/15 - Tainy - Lo Siento BB__.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/19 - Tainy - PARANORMAL.ogg
+Feb 19 02:37 : update: added Tainy/DATA/19 - Tainy - PARANORMAL.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/03 - Tainy - Todavía.ogg
+Feb 19 02:37 : update: added Tainy/DATA/03 - Tainy - Todavía.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/17 - Tainy - Sci-Fi.ogg
+Feb 19 02:37 : update: added Tainy/DATA/17 - Tainy - Sci-Fi.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/11 - Tainy - LA BABY.ogg
+Feb 19 02:37 : update: added Tainy/DATA/11 - Tainy - LA BABY.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/07 - Tainy - desde las 10 (KANY’S INTERLUDE).ogg
+Feb 19 02:37 : update: added Tainy/DATA/07 - Tainy - desde las 10 (KANY’S INTERLUDE).ogg
+Feb 19 02:37 : update: reading Tainy/DATA/14 - Tainy - EN VISTO.ogg
+Feb 19 02:37 : update: added Tainy/DATA/14 - Tainy - EN VISTO.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/09 - Tainy - BUENOS AIRES.ogg
+Feb 19 02:37 : update: added Tainy/DATA/09 - Tainy - BUENOS AIRES.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/04 - Tainy - FANTASMA _ AVC.ogg
+Feb 19 02:37 : update: added Tainy/DATA/04 - Tainy - FANTASMA _ AVC.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/18 - Tainy - CORLEONE INTERLUDE.ogg
+Feb 19 02:37 : update: added Tainy/DATA/18 - Tainy - CORLEONE INTERLUDE.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/20 - Tainy - SACRIFICIO.ogg
+Feb 19 02:37 : update: added Tainy/DATA/20 - Tainy - SACRIFICIO.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/12 - Tainy - me jodi.._.ogg
+Feb 19 02:37 : update: added Tainy/DATA/12 - Tainy - me jodi.._.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/06 - Tainy - 11 Y ONCE.ogg
+Feb 19 02:37 : update: added Tainy/DATA/06 - Tainy - 11 Y ONCE.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/13 - Tainy - VOLVER.ogg
+Feb 19 02:37 : update: added Tainy/DATA/13 - Tainy - VOLVER.ogg
+Feb 19 02:37 : update: reading Tainy/DATA/01 - Tainy - obstáculo.ogg
+Feb 19 02:37 : update: added Tainy/DATA/01 - Tainy - obstáculo.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/22 - Tory Lanez - Loner at Sunset.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/22 - Tory Lanez - Loner at Sunset.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/19 - Tory Lanez - Sex Anonymous.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/19 - Tory Lanez - Sex Anonymous.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/16 - Tory Lanez - Alexa Loves It.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/16 - Tory Lanez - Alexa Loves It.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/17 - Tory Lanez - Splash.Wave.Repeat (Interlude).ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/17 - Tory Lanez - Splash.Wave.Repeat (Interlude).ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/06 - Tory Lanez - Ballad of a Badman.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/06 - Tory Lanez - Ballad of a Badman.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/20 - Tory Lanez - Shut Up & Love.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/20 - Tory Lanez - Shut Up & Love.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/13 - Tory Lanez - Crystal Strawberry.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/13 - Tory Lanez - Crystal Strawberry.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/09 - Tory Lanez - ‘87 Stingray.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/09 - Tory Lanez - ‘87 Stingray.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/12 - Tory Lanez - Prom King __ Love On Acid.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/12 - Tory Lanez - Prom King __ Love On Acid.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/04 - Tory Lanez - The Color Violet.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/04 - Tory Lanez - The Color Violet.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/11 - Tory Lanez - Last Kiss Of Nebulon.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/11 - Tory Lanez - Last Kiss Of Nebulon.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/18 - Tory Lanez - Poison Ivy.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/18 - Tory Lanez - Poison Ivy.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/07 - Tory Lanez - Lady Of Namek.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/07 - Tory Lanez - Lady Of Namek.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/21 - Tory Lanez - KAME HOUSE.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/21 - Tory Lanez - KAME HOUSE.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/02 - Tory Lanez - Pink Dolphin Sunset (feat. Tee).ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/02 - Tory Lanez - Pink Dolphin Sunset (feat. Tee).ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/14 - Tory Lanez - Wilona's Workshop.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/14 - Tory Lanez - Wilona's Workshop.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/15 - Tory Lanez - Hurts Me.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/15 - Tory Lanez - Hurts Me.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/05 - Tory Lanez - Lavender Sunflower.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/05 - Tory Lanez - Lavender Sunflower.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/08 - Tory Lanez - Pluto’s Last Comet.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/08 - Tory Lanez - Pluto’s Last Comet.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/03 - Tory Lanez - Midnight's Interlude.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/03 - Tory Lanez - Midnight's Interlude.ogg
+Feb 19 02:37 : update: reading Tory Lanez/Alone at Prom (Deluxe)/10 - Tory Lanez - Hurt From Mercury.ogg
+Feb 19 02:37 : update: added Tory Lanez/Alone at Prom (Deluxe)/10 - Tory Lanez - Hurt From Mercury.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/04 - Kali Uchis - Flight 22.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/04 - Kali Uchis - Flight 22.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/07 - Kali Uchis - Dead To Me.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/07 - Kali Uchis - Dead To Me.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/08 - Kali Uchis - Nuestro Planeta (feat. Reykon).ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/08 - Kali Uchis - Nuestro Planeta (feat. Reykon).ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/03 - Kali Uchis - Just A Stranger (feat. Steve Lacy).ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/03 - Kali Uchis - Just A Stranger (feat. Steve Lacy).ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/15 - Kali Uchis - Killer.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/15 - Kali Uchis - Killer.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/14 - Kali Uchis - Feel Like A Fool.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/14 - Kali Uchis - Feel Like A Fool.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/12 - Kali Uchis - Coming Home - Interlude.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/12 - Kali Uchis - Coming Home - Interlude.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/10 - Kali Uchis - Gotta Get Up - Interlude.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/10 - Kali Uchis - Gotta Get Up - Interlude.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/02 - Kali Uchis - Miami (feat. BIA).ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/02 - Kali Uchis - Miami (feat. BIA).ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/09 - Kali Uchis - In My Dreams.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/09 - Kali Uchis - In My Dreams.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/05 - Kali Uchis - Your Teeth In My Neck.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/05 - Kali Uchis - Your Teeth In My Neck.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/06 - Kali Uchis - Tyrant (feat. Jorja Smith).ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/06 - Kali Uchis - Tyrant (feat. Jorja Smith).ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/01 - Kali Uchis - Body Language - Intro.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/01 - Kali Uchis - Body Language - Intro.ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/13 - Kali Uchis - After The Storm (feat. Tyler, The Creator & Bootsy Collins).ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/13 - Kali Uchis - After The Storm (feat. Tyler, The Creator & Bootsy Collins).ogg
+Feb 19 02:37 : update: reading Kali Uchis/Isolation/11 - Kali Uchis - Tomorrow.ogg
+Feb 19 02:37 : update: added Kali Uchis/Isolation/11 - Kali Uchis - Tomorrow.ogg
+Feb 19 02:37 : simple_db: removing empty directories from DB
+Feb 19 02:37 : simple_db: sorting DB
+Feb 19 02:37 : simple_db: writing DB
+Feb 19 02:37 : update: finished
+Feb 19 02:37 : client: [0] opened from 127.0.0.1:36708
+Feb 19 02:37 : client: [0] process command list
+Feb 19 02:37 : client: process command "update """
+Feb 19 02:37 : update: spawned thread for update job id 2
+Feb 19 02:37 : update: starting
+Feb 19 02:37 : client: command returned 0
+Feb 19 02:37 : client: [0] process command list returned 0
+Feb 19 02:37 : client: [0] process command list
+Feb 19 02:37 : client: process command "status"
+Feb 19 02:37 : client: command returned 0
+Feb 19 02:37 : client: process command "currentsong"
+Feb 19 02:37 : client: command returned 0
+Feb 19 02:37 : client: [0] process command list returned 0
+Feb 19 02:37 : client: [0] closed
+Feb 19 02:37 : update: finished
+Feb 19 02:37 : client: [1] opened from 127.0.0.1:41270
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "plchanges "0""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "outputs"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "decoders"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "outputs"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "outputs"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo "The Marías""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo "The Marías/Superclean, Vol. II""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "addid "The Marías/Superclean, Vol. II/01 - The Marías - Ruthless.ogg""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "playid "1""
+Feb 19 02:37 : playlist: play 0:"The Marías/Superclean, Vol. II/01 - The Marías - Ruthless.ogg"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : decoder_thread: probing plugin vorbis
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "plchanges "1""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : decoder: audio_format=44100:f:2, seekable=true
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : output: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 02:37 : output: opened "pipewire Sound Server" (pipewire) audio_format=44100:f:2
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo "The Marías""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo "Kali Uchis""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "list Artist"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "find Artist "Kali Uchis""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "find Artist "Kali Uchis" Album "Isolation" Date "2018""
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "listplaylists"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "listplaylists"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "listplaylists"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "lsinfo """
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:37 : client: [1] process command "status"
+Feb 19 02:37 : client: [1] command returned 0
+Feb 19 02:37 : client: [1] process command "idle"
+Feb 19 02:37 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] process command "status"
+Feb 19 02:38 : client: [1] command returned 0
+Feb 19 02:38 : client: [1] process command "idle"
+Feb 19 02:38 : client: [1] command returned 1
+Feb 19 02:38 : client: [1] closed
+Feb 19 02:39 : state_file: Saving state file /home/omi/.config/mpd/statempd
+Feb 19 02:41 : state_file: Saving state file /home/omi/.config/mpd/statempd
+Feb 19 02:41 : player: played "The Marías/Superclean, Vol. II/01 - The Marías - Ruthless.ogg"
+Feb 19 02:41 : output: closed "pipewire Sound Server" (pipewire)
