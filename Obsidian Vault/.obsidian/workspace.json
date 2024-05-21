@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "477a77b7102172be",
+    "type": "split",
+    "children": [
+      {
+        "id": "06623ab4e4696778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65cc28c671c3582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gen Ai/Intro to gen Ai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2898dc88f910639a",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e8719bd7755257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a90e8442a446d79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e8134fb81f37e25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "163a5c0610020d2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "75a8bf934d9fed0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e612174574d3baa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd81851e11ae027",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gen Ai/Intro to gen Ai.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a8124a1654a0526",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gen Ai/Intro to gen Ai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd785508970bbfdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fde3effb018b97c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gen Ai/Intro to gen Ai.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "c65cc28c671c3582",
+  "lastOpenFiles": [
+    "Gen Ai/Intro to gen Ai.md",
+    "Untitled 2.md",
+    "Gen Ai/assets/Pasted image 20240506230812.png",
+    "Gen Ai/assets",
+    "Untitled.md",
+    "Youtube/BOG/Google usage!..md",
+    "().md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled",
+    "Gen Ai",
+    "Youtube",
+    "Pasted image 20240505031851.png",
+    "2024-05-05.md",
+    "Untitled 5.canvas",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "fiela.a.canvas",
+    "Pasted image 20240505031617.png",
+    "Youtube/BOG"
+  ]
+}
