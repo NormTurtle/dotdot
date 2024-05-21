@@ -53,16 +53,15 @@ local colorscheme = "rose-pine"
 -- local colorscheme = "catppuccin-macchiato"
 local colored, _ = pcall(vim.cmd, "colorscheme " .. colorscheme)
 if not colored then
-        print("Colorscheme not found! Set to habamax") -- print error if colorscheme not installed
-        vim.cmd("colorscheme habamax")
-        return
+    print("Colorscheme not found! Set to habamax") -- print error if colorscheme not installed
+    vim.cmd("colorscheme habamax")
+    return
 end
 -- Window Separator
 -- vim.api.nvim_set_hl(0, 'WinSeparator', { bg = '#1f1d2e', fg = '#eb6f92' })
 
 -- end
 -- vim.cmd('autocmd ColorScheme * call v:lua.set_transparency()')
-
 
 --  Keymaps
 -- Leader is set before Lazy
@@ -71,11 +70,11 @@ local key = vim.keymap -- for ease
 -- make good use of U (capital U) key
 key.set("n", "U", "mzlblgueh~`z") -- change case of word
 -- More text object
-key.set("o", "ar", "a]")          -- [r]ectangular bracket
-key.set("o", "ac", "a}")          -- [c]urly brace
-key.set("o", "am", "aW")          -- [m]assive word (= no shift needed)
-key.set("o", "aq", 'a"')          -- [q]uote
-key.set("o", "az", "a'")          -- [z]ingle quote
+key.set("o", "ar", "a]") -- [r]ectangular bracket
+key.set("o", "ac", "a}") -- [c]urly brace
+key.set("o", "am", "aW") -- [m]assive word (= no shift needed)
+key.set("o", "aq", 'a"') -- [q]uote
+key.set("o", "az", "a'") -- [z]ingle quote
 key.set("o", "ir", "i]")
 key.set("o", "ic", "i}")
 key.set("o", "im", "iW")
@@ -87,23 +86,23 @@ key.set("n", "<C-ScrollWheelUp>", ":set guifont=+<CR>")
 key.set("n", "<C-ScrollWheelDown>", ":set guifont=-<CR>")
 
 -- Line movement Soft wrap movement fix
-key.set("n", "j", "gj")          -- move vert by visual line
-key.set("n", "k", "gk")          -- move vert by visual line
+key.set("n", "j", "gj") -- move vert by visual line
+key.set("n", "k", "gk") -- move vert by visual line
 -- HL as amplified versions of hjkl
 key.set({ "n", "v" }, "H", "0^") -- "beginning of line"
-key.set({ "n", "v" }, "L", "$")  --"end of line" ,
+key.set({ "n", "v" }, "L", "$") --"end of line" ,
 key.set({ "n", "v" }, "M", "gm") --"middle of line" ,
 
 -- vim.opt.scrolloff = 15 -- no more need for HML keys
 
 -- Ecams like Cmd & Inset Readline  { ! = insert,Cmdline }
-key.set("!", "<M-h>", "<Left>")       --"move left"
+key.set("!", "<M-h>", "<Left>") --"move left"
 vim.keymap.set("n", "<leader>h", "K") -- mnemonic: [h]over
-key.set("!", "<M-l>", "<Right>")      -- "move right"
-key.set("!", "<M-j>", "<Down>")       --  "move down"
-key.set("!", "<M-k>", "<Up>")         --  "move up"
-key.set("!", "<C-f>", "<Right>")      -- forward-char
-key.set("!", "<C-b>", "<Left>")       -- backward-char
+key.set("!", "<M-l>", "<Right>") -- "move right"
+key.set("!", "<M-j>", "<Down>") --  "move down"
+key.set("!", "<M-k>", "<Up>") --  "move up"
+key.set("!", "<C-f>", "<Right>") -- forward-char
+key.set("!", "<C-b>", "<Left>") -- backward-char
 
 -- Manipulation in insert mode - cmd mode
 key.set("i", "<C-l>", "<Del>") -- delete like <delete> key to the right
@@ -111,10 +110,10 @@ key.set("c", "<C-l>", "<Del>") -- delete like <delete> key to the right
 -- key.set('i', '<C-h>', '<BS>') -- delete like <backspace> key to the left  😂 neovim has it default
 
 -- Nvim is EMacs now
-key.set("i", "<M-b>", "<S-Left>")  --"move left"
+key.set("i", "<M-b>", "<S-Left>") --"move left"
 key.set("i", "<M-f>", "<S-Right>") -- "move right"
 
-key.set("c", "<M-b>", "<S-Left>")  --"move left"
+key.set("c", "<M-b>", "<S-Left>") --"move left"
 key.set("c", "<M-f>", "<S-Right>") -- "move right"
 
 -- highlight last edited or inserted text
@@ -131,15 +130,15 @@ key.set("n", "<leader>LL", "<CMD>Lazy<CR>")
 
 -- Splits  & windows
 key.set("n", "<leader>sh", "<cmd> vnew <cr>") -- split window vert
-key.set("n", "<leader>sv", "<cmd> new <cr>")  -- split window horiz
-key.set("n", "<leader>se", "<C-w>=")          -- make window equal width
-key.set("n", "<leader>sx", ":close<CR>")      -- close current split
+key.set("n", "<leader>sv", "<cmd> new <cr>") -- split window horiz
+key.set("n", "<leader>se", "<C-w>=") -- make window equal width
+key.set("n", "<leader>sx", ":close<CR>") -- close current split
 
 -- Tabs
-key.set("n", "<leader>to", ":tabnew<CR>")   -- open new Tab
+key.set("n", "<leader>to", ":tabnew<CR>") -- open new Tab
 key.set("n", "<leader>tx", ":tabclose<CR>") -- close current tab
-key.set("n", "<leader>tn", ":tabn<CR>")     -- go to next tab
-key.set("n", "<leader>tp", ":tabp<CR>")     -- go to prev tab
+key.set("n", "<leader>tn", ":tabn<CR>") -- go to next tab
+key.set("n", "<leader>tp", ":tabp<CR>") -- go to prev tab
 
 -- buffers
 key.set("n", "<leader>n", ":bn<CR>") -- go to next tab
@@ -175,7 +174,7 @@ key.set("n", "<leader>ss", "<cmd>setlocal spell!<cr>", { desc = "Toggle spell ch
 
 -- toggling Wrap modes
 key.set("n", "yow", function()
-        vim.cmd([[
+    vim.cmd([[
     set wrap!
     if &wrap == 1
       echom "Toggle to Wrap"

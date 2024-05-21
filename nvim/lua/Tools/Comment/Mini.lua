@@ -1,6 +1,7 @@
 return {
     {
         "echasnovski/mini.comment",
+        event = "BufReadPre",
         opts = {
             options = {
                 -- Whether to ignore blank lines

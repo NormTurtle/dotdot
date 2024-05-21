@@ -6,7 +6,7 @@ return {
         "nvim-treesitter/nvim-treesitter",
         event = { "BufReadPost", "InsertEnter" },
         dependencies = {
-            -- "HiPhish/rainbow-delimiters.nvim",
+            "HiPhish/rainbow-delimiters.nvim",
             -- "nvim-treesitter/nvim-treesitter-textobjects",
             -- "JoosepAlviste/nvim-ts-context-commentstring",
         },

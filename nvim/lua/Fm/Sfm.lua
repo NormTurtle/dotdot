@@ -14,7 +14,8 @@ M = {
             { "dinhhuy258/sfm-filter.nvim" },
             { "dinhhuy258/sfm-git.nvim" },
             { "dinhhuy258/sfm-telescope.nvim" },
-            { "dinhhuy258/sfm-paste.nvim" }, -- MacOs only
+            -- { "dinhhuy258/sfm-paste.nvim" }, -- MacOs only
+            { "julihermes/sfm-focus.nvim" },
         },
 
         config = function()
@@ -105,6 +106,7 @@ M = {
             sfm_explorer:load_extension("sfm-git") -- git plugin to track changed files
             sfm_explorer:load_extension("sfm-telescope") -- `/` (slash) to search files using telescope
             -- sfm_explorer:load_extension "sfm-paste" -- Only MacOs  Right Now
+            sfm_explorer:load_extension("sfm-focus")
         end,
     },
 }

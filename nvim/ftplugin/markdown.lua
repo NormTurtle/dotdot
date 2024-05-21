@@ -5,3 +5,5 @@
 --
 --
 -- ]])
+-- Map Ctrl+<CR> to render-markdown
+vim.api.nvim_set_keymap("n", "<C-Return>", "<CMD>RenderMarkdownToggle<CR>", { noremap = true })
