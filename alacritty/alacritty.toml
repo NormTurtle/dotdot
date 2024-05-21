@@ -2,6 +2,7 @@
 # man 5 alacritty (>0.13) for full config manual
 
 import = [
+        # "~/.config/alacritty/themes/rose-pine.toml",
         "~/.config/alacritty/themes/rose-pine.toml",
         # "~/.config/alacritty/keybindings.toml",
 ]
@@ -23,7 +24,7 @@ dimensions = { columns = 80, lines = 20 }
 padding = { x = 10, y = 10 }
 dynamic_padding = true
 # decorations = "None"
-opacity = 0.78
+opacity = 0.94
 blur = true
 #startup_mode          = "Windowed"
 title = "Alacritty"
@@ -41,10 +42,16 @@ normal = { family = "JetBrainsMono Nerd Font Mono", style = "Medium" }
 bold = { family = "JetBrainsMono Nerd Font Mono", style = "Bold" }
 italic = { family = "JetBrainsMono Nerd Font Mono", style = "Italic" }
 bold_italic = { family = "JetBrainsMono Nerd Font Mono", style = "Bold Italic" }
-size = 13
+size = 15
 # offset = { x = 0, y = 0 }
 glyph_offset = { x = 0, y = 0 }
 builtin_box_drawing = true
+
+[[hints.enabled]]
+command = "open"
+hyperlinks = true
+post_processing = true
+regex = "(https|http):[^\u0000-\u001F\u007F-<>\"\\s{-}\\^⟨⟩`]+"
 
 [bell]
 animation = "EaseOutExpo"
@@ -77,6 +84,10 @@ osc52 = "OnlyCopy"
 [mouse]
 hide_when_typing = true
 bindings = [{ mouse = "Middle", action = "PasteSelection" }]
+
+[hints.enabled.mouse]
+enabled = true
+mods = "None"
 
 [hints]
 alphabet = "jfkdls;ahgurieowpq"
