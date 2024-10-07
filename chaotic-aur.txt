@@ -7,3 +7,36 @@ pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.
 
 [chaotic-aur]
 Include = /etc/pacman.d/chaotic-mirrorlist
+
+## mirrorlist
+
+# STARTED AT: 2024-08-31 01:54:38.865121303 +05:30
+# ARGS: rate-mirrors --allow-root --entry-country IN --save /etc/pacman.d/chaotic-mirrorlist chaotic-aur
+# ==== RESULTS (top re-tested) ====
+#   1. SpeedTestResult { speed: 2.56 MB/s; elapsed: 996.676718ms; connection_time: 1.349405254s } -> https://in-mirror.chaotic.cx/
+#   2. SpeedTestResult { speed: 2.44 MB/s; elapsed: 994.24449ms; connection_time: 1.467179033s } -> https://geo-mirror.chaotic.cx/
+#   3. SpeedTestResult { speed: 2.24 MB/s; elapsed: 980.81249ms; connection_time: 599.61264ms } -> https://cdn-mirror.chaotic.cx/
+#   4. SpeedTestResult { speed: 2.10 MB/s; elapsed: 997.38718ms; connection_time: 1.306499219s } -> https://cl-mirror.chaotic.cx/
+#   5. SpeedTestResult { speed: 1.22 MB/s; elapsed: 996.451034ms; connection_time: 654.218068ms } -> https://es-2-mirror.chaotic.cx/
+#   6. SpeedTestResult { speed: 622.74 KB/s; elapsed: 341.573947ms; connection_time: 2.099782658s } -> https://ca-mirror.chaotic.cx/
+#   7. SpeedTestResult { speed: 521.38 KB/s; elapsed: 690.789654ms; connection_time: 2.043933886s } -> https://de-2-mirror.chaotic.cx/
+#   8. SpeedTestResult { speed: 504.81 KB/s; elapsed: 989.896222ms; connection_time: 4.621300016s } -> https://es-mirror.chaotic.cx
+# FINISHED AT: 2024-08-31 01:54:56.801820991 +05:30
+Server = https://in-mirror.chaotic.cx/$repo/$arch
+Server = https://geo-mirror.chaotic.cx/$repo/$arch
+Server = https://cdn-mirror.chaotic.cx/$repo/$arch
+Server = https://cl-mirror.chaotic.cx/$repo/$arch
+Server = https://es-2-mirror.chaotic.cx/$repo/$arch
+Server = https://ca-mirror.chaotic.cx/$repo/$arch
+Server = https://de-2-mirror.chaotic.cx/$repo/$arch
+Server = https://es-mirror.chaotic.cx/$repo/$arch
+Server = https://de-3-mirror.chaotic.cx/$repo/$arch
+Server = https://us-mi-mirror.chaotic.cx/$repo/$arch
+Server = https://us-tx-mirror.chaotic.cx/$repo/$arch
+Server = https://us-ut-mirror.chaotic.cx/$repo/$arch
+Server = https://in-4-mirror.chaotic.cx/$repo/$arch
+Server = https://in-3-mirror.chaotic.cx/$repo/$arch
+Server = https://in-2-mirror.chaotic.cx/$repo/$arch
+Server = https://gr-mirror.chaotic.cx/$repo/$arch
+Server = https://kr-mirror.chaotic.cx/$repo/$arch
+Server = https://fr-mirror.chaotic.cx/$repo/$arch
