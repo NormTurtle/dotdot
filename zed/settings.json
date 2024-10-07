@@ -1,0 +1,40 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette
+{
+  "assistant": {
+    "default_model": {
+      "provider": "google",
+      "model": "gemini-1.5-flash"
+    },
+    "version": "2"
+  },
+  "features": {
+    "inline_completion_provider": "supermaven"
+  },
+  "ui_font_size": 22,
+  "buffer_font_size": 20,
+
+  "theme": {
+    "mode": "system",
+    "light": "Rosé Pine Dawn",
+    "dark": "Rosé Pine"
+  },
+  // "buffer_font_family": "CommitMono Nerd Font",
+  "vim_mode": true,
+  "copilot": {
+    "enabled": true,
+    "key": "Tab"
+  },
+  // disable cursor blink
+  "cursor_blink": true,
+  "vertical_scroll_margin": 0,
+  "tab_bar": {
+    "show": true
+  }
+}

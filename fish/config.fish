@@ -33,10 +33,9 @@ if status is-interactive
     abbr get 'xh -d'
     abbr bonk "mkdir -p"
     abbr yt yt-dlp
-    abbr buzz "curl --progress-bar -o o -H 'Authorization: Bearer 6392379947190010' -T sample.mp4 https://w.buzzheavier.com/ && cat o && rm o "
 
-    # Created by `pipx` on 2024-03-08 20:31:49
-    set PATH $PATH /home/omi/.local/bin
+    abbr dvc '/home/omi/media/dvc.sh -c '
+    #abbr buzz "curl --progress-bar -o o -H 'Authorization: Bearer 6392379947190010' -T sample.mp4 https://w.buzzheavier.com/ && cat o && rm o "
 
 
     # FISHER
@@ -59,7 +58,10 @@ if status is-interactive
         bind -M insert -m default jk backward-char force-repaint
     end
 
+    # Created by `pipx` on 2024-03-08 20:31:49
+    #set PATH $PATH /home/omi/.local/bin
 
 end
 
-# thefuck --alias | source
+ #thefuck --alias | source
+# dash -c "gnome-screenshot --area --include-pointer -f /tmp/gnome-ss.png  && swappy -f /tmp/gnome-ss.png -o /home/omi/pix/ss/$(date +"%H:%M:%S-%b%d-%a").png  "
