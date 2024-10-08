@@ -1,1 +1,14 @@
 mousepad
+zoxide
+xh,dua,
+swappy
+apple-fonts
+intel-graphics-compiler
+intel-compute-runtime
+ttf-maple
+riseup-vpn
+inlyne
+intel-ucode
+mission-center
+rtl8821au-dkms-git
+rate-mirrors
