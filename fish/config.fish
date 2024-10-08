@@ -27,6 +27,8 @@ if status is-interactive
     alias ipy ipython
     alias lt "eza --tree"
     alias vim "nvim --clean -u $HOME/.config/vim/init.lua"
+    alias rcp "rsync -ah --partial --inplace --info=progress2"
+
     alias l "eza -1 --hyperlink"
 
     abbr icat 'kitten icat'
