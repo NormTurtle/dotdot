@@ -1,0 +1,25 @@
+[Default Applications]
+text/html=vivaldi-stable.desktop
+x-scheme-handler/http=vivaldi-stable.desktop
+x-scheme-handler/https=vivaldi-stable.desktop
+x-scheme-handler/about=vivaldi-stable.desktop
+x-scheme-handler/unknown=vivaldi-stable.desktop
+image/png=org.gnome.Loupe.desktop
+text/plain=org.xfce.mousepad.desktop
+text/markdown=code-oss.desktop
+x-scheme-handler/fdm=freedownloadmanager_fdm_up.desktop
+x-scheme-handler/magnet=freedownloadmanager_magnet_up.desktop
+application/x-bittorrent=freedownloadmanager_torrent.desktop
+image/webp=org.gnome.Loupe.desktop
+application/x-desktop=org.gnome.TextEditor.desktop
+application/json=org.gnome.TextEditor.desktop
+
+[Added Associations]
+image/png=org.gnome.Loupe.desktop;
+text/plain=org.xfce.mousepad.desktop;
+text/markdown=code-oss.desktop;
+image/webp=org.gnome.Loupe.desktop;
+application/x-desktop=org.gnome.TextEditor.desktop;
+application/octet-stream=mpv.desktop;
+application/x-partial-download=mpv.desktop;
+application/json=org.gnome.TextEditor.desktop;

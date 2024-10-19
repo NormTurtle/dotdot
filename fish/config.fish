@@ -60,10 +60,12 @@ if status is-interactive
         bind -M insert -m default jk backward-char force-repaint
     end
 
-    # Created by `pipx` on 2024-03-08 20:31:49
-    #set PATH $PATH /home/omi/.local/bin
 
 end
 
  #thefuck --alias | source
 # dash -c "gnome-screenshot --area --include-pointer -f /tmp/gnome-ss.png  && swappy -f /tmp/gnome-ss.png -o /home/omi/pix/ss/$(date +"%H:%M:%S-%b%d-%a").png  "
+
+# dash -c "NOW=satty-$(date '+%Y%m%d-%H:%M:%S') ; gnome-screenshot -a -f /tmp/$NOW.png; satty /tmp/$NOW.png --initial-tool arrow -f --save-after-copy -o ~/pix/Screenshots/$NOW.png "
+    # Created by `pipx` on 2024-03-08 20:31:49
+set PATH $PATH /home/omi/.local/bin
