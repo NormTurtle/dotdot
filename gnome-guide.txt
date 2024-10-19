@@ -1,0 +1,31 @@
+Gnome 47
+## Gradince ( make mostly rose-pine things)
+```
+flatpak remote-add --if-not-exists flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo
+flatpak install flathub-beta com.github.GradienceTeam.Gradience
+
+```
+
+## extensions
+alphabetical-grid-extension
+App-hider
+Gnome 4x Ui improvements
+Clipboard indicator
+Osd Volume Number
+Volume boost
+Just perfection  ( make clock to left from centre )
+Quick close in overview
+Volume Scroller
+- in-built
+-- System moniter
+-- Workspace indicator
+-- Removable drive menu
+
+## screenshot
+for takign screenshot use Swappy(*) or Satty
+```
+dash -c "gnome-screenshot --area --include-pointer -f /tmp/gnome-ss.png  && swappy -f /tmp/gnome-ss.png -o /home/omi/pix/ss/$(date +"%H:%M:%S-%b%d-%a").png  "
+```
+```
+dash -c "NOW=satty-$(date '+%Y%m%d-%H:%M:%S') ; gnome-screenshot -a -f /tmp/$NOW.png; satty  --initial-tool arrow -f /tmp/$NOW.png --save-after-copy -o ~/pix/Screenshots/$NOW.png "
+```
