@@ -1,14 +1,16 @@
+zoxide,fish,fisher,code,kitty,meld,tgpt,tlrc-bin,trash-cli
+fast,eza,xh,fd,dua-cli,duf,fastfetch,rate-mirrors
+swappy,satty
+apple-fonts,ttf-jetbrains-mono-nerd,ttf-meslo
+riseup-vpn  ( free vpn )
+inlyne  ( markdown viewer )
 mousepad
-zoxide
-xh,dua,
-swappy
-apple-fonts
-intel-graphics-compiler
-intel-compute-runtime
-ttf-maple
-riseup-vpn
-inlyne
-intel-ucode
-mission-center
-rtl8821au-dkms-git
-rate-mirrors
+mission-center,btop,
+rtl8821au-dkms-git,angryoxide
+freedownloadmanager
+vivaldi,brave-bin,spotify
+gnome-calculator,qalculate(gtk or qt)
+extension-manager,file-roller ( Gnome only )
+frog-ocr or normcap , droidcam
+rnote,write_stylus
+spicetify-cli,spicetify-marketplace-bin

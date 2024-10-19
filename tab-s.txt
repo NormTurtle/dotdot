@@ -1,8 +1,0 @@
-https://github.com/agarrharr/awesome-cli-apps?tab=readme-ov-file#command-line-learning
-https://notes.jakubpawlina.com/tools/2023/06/23/amazing-cli-tools.html
-https://github.com/johnalanwoods/maintained-modern-unix
-https://terminaltrove.com/language/rust/
-https://github.com/rothgar/awesome-tuis
-https://github.com/jorgebucaran/fisher
-https://pythontutor.com/
-https://bsc-iitm.github.io/python/

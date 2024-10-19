@@ -29,3 +29,44 @@ dash -c "gnome-screenshot --area --include-pointer -f /tmp/gnome-ss.png  && swap
 ```
 dash -c "NOW=satty-$(date '+%Y%m%d-%H:%M:%S') ; gnome-screenshot -a -f /tmp/$NOW.png; satty  --initial-tool arrow -f /tmp/$NOW.png --save-after-copy -o ~/pix/Screenshots/$NOW.png "
 ```
+
+
+## ssd health
+install `smartmontools`
+```
+sudo smartctl -a /dev/nvme0
+```
+
+
+### kvm ready device
+```
+yay -S qemu-desktop qemu-img libvirt virt-install virt-manager virt-viewer \
+edk2-ovmf swtpm guestfs-tools libosinfo dnsmasq
+```
+```
+sudo systemctl enable libvirtd.service
+```
+
+validate settings
+```
+sudo virt-host-validate qemu
+```
+```
+sudo -e /etc/default/grub
+```
+```
+# /etc/default/grub
+GRUB_CMDLINE_LINUX="... intel_iommu=on iommu=pt"
+```
+```
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
+```
+sudo usermod -aG libvirt $USER
+```
+reboot
+`sudo virsh uri`
+must be ``qemu:///system`
+
+if needed do this too 
+https://gist.github.com/tatumroaquin/c6464e1ccaef40fd098a4f31db61ab22#set-acl-for-the-kvm-images-directory
