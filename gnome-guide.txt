@@ -1,4 +1,18 @@
 Gnome 47
+installation sizing . ( no extra files downlaoded ) just system
+```
+~
+:) duf
+╭────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ 3 local devices                                                                                │
+├────────────┬─────────┬────────┬────────┬───────────────────────────────┬──────┬────────────────┤
+│ MOUNTED ON │    SIZE │   USED │  AVAIL │              USE%             │ TYPE │ FILESYSTEM     │
+├────────────┼─────────┼────────┼────────┼───────────────────────────────┼──────┼────────────────┤
+│ /          │   45.0G │  22.6G │  20.0G │ [##########..........]  50.3% │ ext4 │ /dev/nvme0n1p2 │
+│ /boot      │ 1022.0M │ 326.9M │ 695.1M │ [######..............]  32.0% │ vfat │ /dev/nvme0n1p1 │
+│ /home      │  411.1G │  74.2G │ 316.0G │ [###.................]  18.0% │ ext4 │ /dev/nvme0n1p3 │
+╰────────────┴─────────┴────────┴────────┴───────────────────────────────┴──────┴────────────────╯
+```
 ## Gradince ( make mostly rose-pine things)
 ```
 flatpak remote-add --if-not-exists flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo
