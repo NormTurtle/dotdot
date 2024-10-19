@@ -84,3 +84,14 @@ must be ``qemu:///system`
 
 if needed do this too 
 https://gist.github.com/tatumroaquin/c6464e1ccaef40fd098a4f31db61ab22#set-acl-for-the-kvm-images-directory
+
+
+
+# change Fn-lock on defualt reboot
+create `/etc/modprobe.d/fn-lock.conf` with
+```
+# /etc/modprobe.d/fn-lock.conf
+options asus_wmi fnlock_default=N
+
+```
+
